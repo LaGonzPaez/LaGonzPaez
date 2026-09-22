@@ -1,16 +1,52 @@
-## Hi there 👋
+# Salut, moi c'est Gonzague 👋
 
-<!--
-**LaGonzPaez/LaGonzPaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Integration • Industrial Automation • Microsoft Solutions
 
-Here are some ideas to get you started:
+Je construis des systèmes réutilisables mêlant intelligence artificielle, automatisation industrielle et écosystème Microsoft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actuellement en **Bachelor Numérique à UniLaSalle Amiens**, je développe des solutions autour de Python, Power Platform, Copilot Studio et de l'architecture multi-agents.
+
+---
+
+## 🚀 Ce que je construis actuellement
+
+* 🤖 Claude OS — plateforme personnelle d'agents IA
+* ⚡ Automatisations Power Platform
+* 📄 Meeting Agent (Teams → Compte rendu → Actions)
+* 🏭 Outils pour l'Industrie 4.0
+
+---
+
+## 🛠️ Stack
+
+<text size=sm>**IA**</text>
+
+Python • Git • GitHub • Claude Code • Copilot • Gemini *(à venir)*
+
+<text size=sm>**Microsoft**</text>
+
+Power Automate • Power Apps • SharePoint • Dataverse • Copilot Studio
+
+<text size=sm>**Automatisme**</text>
+
+Siemens TIA Portal • Schneider Control Expert • Grafcet • SFC
+
+---
+
+## 📌 Philosophie
+
+> Construire une fois. Réutiliser partout.
+
+Chaque projet est pensé comme une brique réutilisable plutôt qu'un projet isolé.
+
+---
+
+## 🎯 Roadmap
+
+* [x] GitHub professionnel
+* [ ] Claude OS v1
+* [ ] GitHub Student Developer Pack
+* [ ] Portfolio GitHub Pages
+* [ ] Architecture multi-agents
+* [ ] Copilot Premium
+
